@@ -1,0 +1,124 @@
+[
+{
+"name": "IMEI Number:",
+"code": "*#06#"
+},
+{
+"name": "RAM Memory version:",
+"code": "##3264##"
+},
+{
+"name": "FTA SW version:",
+"code": "##1111##"
+},
+{
+"name": "FTA HW version:",
+"code": "##2222##"
+},{
+"name": "Touchscreen version:",
+"code": "##2663##"
+},{
+"name": "test Bluetooth:",
+"code": "##232331##"
+},{
+"name": "display Bluetooth Physic Address:",
+"code": "##232337##"
+},{
+"name": "test secret GPS:",
+"code": "##1472365##"
+},{
+"name": "test other GPS:",
+"code": "##1575##"
+},
+{
+"name": "test WiFi/Wireless\nLAN of phone:",
+"code": "##232339##"
+},{
+    "name": "To display Wi-Fi MAC Address:",
+    "code": "*#*#232338#*#*"
+  },{
+  "name": "To test Vibration and Back-light of device:",
+  "code": "*#*#0842#*#*"
+},{
+  "name": "To test Proximity/Distance Sensor: ",
+  "code": "*#*#0588#*#*"
+},{
+  "name": "To test Touchscreen:",
+  "code": "*#*#2663#*#*"
+},{
+  "name": "For Audio Test:",
+  "code": "*#*#0289#*#*"
+},{
+  "name": "To launch Service Mode:",
+  "code": "*#*#197328640#*#*"
+},{
+  "name": "Hidden Service Menu (Motorola Droid):",
+  "code": "##7764726"
+},{
+  "name": "Field Test:",
+  "code": "*#*#7262626#*#*"
+},{
+  "name": "To format the phone: ",
+  "code": "*2767*3855#"
+},{
+  "name": "To Restore Factory Settings:",
+  "code": "*#*#7780#*#*"
+},{
+  "name": "To create Immediate backup of your multimedia files:",
+  "code": "*#*#273282*255*663282*#*#*"
+},{
+  "name": "To display Phone Information:",
+  "code": "*#*#4636#*#*"
+},{
+  "name": "To get detailed Camera Information: ",
+  "code": "*#*#34971539#*#*"
+},{
+  "name": "For Software & Hardware Information:",
+  "code": "*#12580*369#"
+},{
+  "name": "To display HSDPA/HSUPA Control Menu:",
+  "code": "*#301279#"
+},{
+  "name": "To start GTalk Monitoring:",
+  "code": "*#*#8255#*#*"
+},{
+  "name": "To get PDA, Phone, H/W and RF Call Date:",
+  "code": "*#*#4986*2650468#*#*"
+},{
+  "name": "Displays Build Time and Change List number:",
+  "code": "*#*#44336#*#*"
+},{
+  "name": "Packet Loopback Test:",
+  "code": "*#*#0283#*#*"
+},{
+  "name": "LCD Display Test:",
+  "code": "*#*#0*#*#*"
+},{
+  "name": "Enter Service Menu (on New Phones):",
+  "code": "*#0*#"
+},{
+  "name": "Diagnostic Configuration:",
+  "code": "*#9090#"
+},{
+  "name": "USB Logging Control:",
+  "code": "*#872564#"
+},{
+  "name": "System Dump Mode:",
+  "code": "*#9900#"
+},{
+  "name": "View Phone Lock Status:",
+  "code": "*#7465625#"
+},{
+  "name": "Executes Emergency Dial Screen to unlock PUK Code:",
+  "code": "**05**#"
+},{
+  "name": "Enables Voice Dialing Logging Mode:",
+  "code": "*#*#8351#*#*"
+},{
+  "name": "Disables Voice Dialing Logging Mode:",
+  "code": "*#*#8350#*#*"
+},{
+  "name": "Change behavior of Power button:",
+  "code": "*#*#7594#*#*"
+}
+]
